@@ -1,0 +1,4 @@
+DNSSEC,Avg Latency (ms),Avg Bandwidth (KB),Avg CPU Usage (%),Avg RAM Usage (%)
+dilithium2,6.83,3.46,97.15,0.141
+falconpadded512,6.29,0.93,98.49,0.141
+sphincssha2128fsimple,6.88,8.89,94.58,0.142

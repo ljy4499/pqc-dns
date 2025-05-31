@@ -1,0 +1,6 @@
+KEM,DS,Avg Latency (ms),Avg Bandwidth (KB),Avg CPU Usage (%),Avg RAM Usage (%)
+mlkem1024,rsa4096,12.36,7.86,62.35,0.16
+mlkem1024,ecdsa_p521,12.06,6.72,72.91,0.161
+mlkem1024,ed448,9.2,6.62,87.28,0.159
+hqc256,rsa4096,68.44,26.41,57.88,0.162
+hqc256,ecdsa_p521,68.17,25.28,59.88,0.162

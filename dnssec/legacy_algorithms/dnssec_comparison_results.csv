@@ -1,0 +1,4 @@
+DNSSEC,Avg Latency (ms),Avg Bandwidth (KB),Avg CPU Usage (%),Avg RAM Usage (%)
+rsa2048sha256,6.22,0.53,97.26,0.141
+ecdsap256sha256,6.28,0.34,97.72,0.141
+ed25519,6.2,0.34,95.8,0.141

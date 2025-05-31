@@ -1,0 +1,4 @@
+DNSSEC,KEM,DS,Avg Latency (ms),Avg Bandwidth (KB),Avg CPU Usage (%),Avg RAM Usage (%)
+rsa2048sha256,mlkem512,mldsa44,9.04,10.84,93.22,0.166
+ecdsap256sha256,mlkem512,falcon512,9.02,6.66,88.6,0.165
+ed25519,mlkem512,sphincssha2128fsimple,16.35,38.35,50.6,0.165

@@ -1,0 +1,5 @@
+KEM,DS,Avg Latency (ms),Avg Bandwidth (KB),Avg CPU Usage (%),Avg RAM Usage (%)
+ffdhe3072,mldsa65,11.08,12.47,81.87,0.162
+ffdhe3072,sphincssha2192fsimple,23.6,74.59,39.48,0.159
+secp384r1,mldsa65,11.82,11.91,78.3,0.163
+secp384r1,sphincssha2192fsimple,24.25,74.05,39.76,0.16

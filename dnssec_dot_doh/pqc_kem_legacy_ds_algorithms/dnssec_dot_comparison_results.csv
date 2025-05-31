@@ -1,0 +1,4 @@
+DNSSEC,KEM,DS,Avg Latency (ms),Avg Bandwidth (KB),Avg CPU Usage (%),Avg RAM Usage (%)
+dilithium2,ffdhe2048,rsa2048,10.24,6.55,79.19,0.153
+falconpadded512,ffdhe2048,ecdsa_p256,9.69,4.27,85.37,0.156
+sphincssha2128fsimple,ffdhe2048,ed25519,9.89,11.29,84.6,0.154

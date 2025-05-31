@@ -1,0 +1,5 @@
+KEM,DS,Avg Latency (ms),Avg Bandwidth (KB),Avg CPU Usage (%),Avg RAM Usage (%)
+ffdhe3072,rsa3072,12.49,5.12,71.01,0.153
+ffdhe3072,ecdsa_p384,12.36,4.34,74.97,0.154
+secp384r1,rsa3072,13.11,4.56,68.45,0.154
+secp384r1,ecdsa_p384,12.95,3.75,76.37,0.153

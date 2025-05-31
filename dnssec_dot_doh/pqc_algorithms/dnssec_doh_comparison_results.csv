@@ -1,0 +1,4 @@
+DNSSEC,KEM,DS,Avg Latency (ms),Avg Bandwidth (KB),Avg CPU Usage (%),Avg RAM Usage (%)
+dilithium2,mlkem512,mldsa44,9.18,13.39,88.97,0.167
+falconpadded512,mlkem512,falcon512,9.06,7.64,87.79,0.166
+sphincssha2128fsimple,mlkem512,sphincssha2128fsimple,16.38,46.42,52.33,0.166

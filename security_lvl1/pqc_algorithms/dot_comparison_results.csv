@@ -1,0 +1,6 @@
+KEM,DS,Avg Latency (ms),Avg Bandwidth (KB),Avg CPU Usage (%),Avg RAM Usage (%)
+mlkem512,mldsa44,9.1,10.54,92.75,0.165
+mlkem512,falcon512,9.11,6.54,87.53,0.164
+mlkem512,sphincssha2128fsimple,16.36,38.24,50.24,0.165
+hqc128,mldsa44,19.07,15.54,70.63,0.166
+hqc128,falcon512,19.13,11.67,70.18,0.164
